@@ -23,6 +23,10 @@ h1{
     text-align: center;
     color: rgb(240, 216, 6);
 }
+hr{
+    background-color: aliceblue;
+    height: 3px;
+}
 
 h2{
     font-family: 'Times New Roman', Times, serif;
