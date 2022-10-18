@@ -3,7 +3,7 @@ body{
 }
 
 .fare{
-  background-color: white;
+  background-color: rgb(11, 204, 107);
   width: 80%;
   margin-left: auto;
   margin-right: auto;
@@ -16,5 +16,5 @@ h1{
 .company{
     font-style: italic;
     text-align: center;
-    color: coral;
+    color: rgb(157, 53, 15);
 }
