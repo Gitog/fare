@@ -1,20 +1,29 @@
 body{
-    background-image: url("./images/background.jpg");
+    background-image: url("./images/comfybg.jpg");
 }
 
 .fare{
-  background-color: rgb(11, 204, 107);
+  background-color: rgb(84, 158, 96);
   width: 80%;
+  max-width: 70%;
+  padding: 20px;
   margin-left: auto;
   margin-right: auto;
-  font-size: 35px;
 }
 h1{
     text-align: center;
     font-family: serif;
+    font-size: 35px;
+    padding-top: 9px;
 }
+
 .company{
     font-style: italic;
     text-align: center;
     color: rgb(157, 53, 15);
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
