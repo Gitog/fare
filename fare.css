@@ -40,10 +40,9 @@ h2{
     display: inline-block;
     margin-top:5px;
     margin-bottom:5px;
-}
-p{
     font-size: 20px;
 }
+
 .route{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(195, 228, 9);
