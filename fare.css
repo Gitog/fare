@@ -2,13 +2,14 @@ body{
     background-image: url("./images/comfybg.jpg");
 }
 
-.fare{
+#fare{
   background-color: rgb(84, 158, 96);
-  width: 80%;
+  width: 60%;
   padding: 20px;
   margin-left: auto;
   margin-right: auto;
 }
+
 h1{
     text-align: center;
     font-family: serif;
@@ -27,11 +28,15 @@ h2{
     text-align: center;
 }
 
-.routes{
+.routes p{
     display: inline-block;
+}
+p{
+    font-size: 20px;
 }
 .route{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(195, 228, 9);
     text-align: left;
     width: 75%;
 }
