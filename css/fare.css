@@ -22,8 +22,11 @@ ul li a{
     color:aliceblue;
 }
 
-ul li a :hover{
+ul li a:hover{
     color: rgb(240, 216, 6);
+}
+ul li a:active{
+    color: rgb(10, 10, 10);
 }
 
 h1{
